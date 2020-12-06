@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603127510 source:c:\users\Максим\desktop\task\task6\task6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+
